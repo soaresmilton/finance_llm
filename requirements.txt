@@ -1,0 +1,6 @@
+python-dotenv
+pandas
+ofxparse
+langchain
+langchain_groq
+langchain_core
